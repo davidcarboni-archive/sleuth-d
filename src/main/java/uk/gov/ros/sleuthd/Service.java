@@ -1,4 +1,4 @@
-package uk.gov.ros.discharges;
+package uk.gov.ros.sleuthd;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
